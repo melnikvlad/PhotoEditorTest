@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1CAF96</color>
+    <color name="colorPrimaryDark">#0D5C63</color>
+    <color name="colorAccent">#1CAF96</color>
+
+    <color name="main">#0D5C63</color>
+
+    <color name="rv_item_color_1">#55C6BF</color>
+    <color name="rv_item_color_2">#44A1A0</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+</resources>

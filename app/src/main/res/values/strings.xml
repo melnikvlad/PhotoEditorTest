@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PhotoEditor</string>
+    <string name="image_to_manage">Image holder</string>
+    <string name="error_no_camera">Device has no camera.</string>
+    <string name="camera">camera</string>
+    <string name="gallery">gallery</string>
+    <string name="error_load_image">Image can\'t be loaded</string>
+    <string name="btn_rotate_left">Rotate left</string>
+    <string name="btn_rotate_right">Rotate right</string>
+    <string name="btn_filter_gray">Gray mode</string>
+    <string name="btn_flip">FLip</string>
+    <string name="authority">com.example.photoeditor.fileprovider</string>
+    <string name="error_no_camera_activity">Can\'t use device camera.</string>
+    <string name="choose_action">Choose action.</string>
+    <string name="alert_message">Do you want to remove image or use it as a source in future?</string>
+    <string name="remove">Delete</string>
+    <string name="set_as_default">set</string>
+    <string name="permission_acuired">You will not able to use common features without granting this permissions. To grant - pls go to settings and etc.</string>
+    <string name="permission_warning">Grant this permissions to start work with application.</string>
+    <string name="btn_url">url</string>
+    <string name="permissions_title">Permissions required</string>
+    <string name="permissions_message">Grant permissions to enable full functionality</string>
+    <string name="ok">ok</string>
+    <string name="load">download</string>
+    <string name="cancel">cancel</string>
+    <string name="dialog_load_url_title">Load from URL.</string>
+    <string name="dialog_load_url_message">Please provide image url address to start downloading.</string>
+    <string name="btn_exif">EXIF</string>
+    <string name="change">change</string>
+    <string name="hint">Type new exif model value</string>
+</resources>
